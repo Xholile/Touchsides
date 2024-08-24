@@ -1,0 +1,104 @@
+
+Xholile Present
+Address: 6389 Mothomo Crescent, Kempton Park 1618
+Phone: +27(0)84 876 6520
+Email: xholilesamuel@gmail.com
+
+SUMMARY I am a software developer with a solid background in a wide range of .Net development aspects in a business application context. My expertise includes all development stages, from initial analysis through design and execution. I am proficient in a few platforms and systems. In addition to my technical skills, I currently ventured on Automation Testing using Python, Behave Framework with Selenium to test frontend, and BDD for backend, etc. I am a great communicator and team player. My ability to communicate well enables me to work effectively with clients and development team to identify objectives and requirements for applications.
+
+
+WORK
+EXPERIENCE
+
+
+
+03/2022 – Present
+Software Engineer, JUTA AND COMPANY(PTY) LTD, Sandton South Africa
+Responsibilities:
+* Design and implement visually user friendly interfaces, audit code to identify bottlenecks of performance and fixing them.
+* Writing efficient Typescript code while using angular material, HTML and css.
+* Enhanced the e-commerce website features to effectively fix bugs and optimize the performance, realibility and effectiveness.
+* Worked closely with senior developers to rebuild optimized juta e-commerce website which increased the revenue of the company and gain positive reviews from users.
+* Replace the old juta cms with headless strapi cms to help marketing with flexibility and independence in adding content to the website without developers intervention.
+
+WORK
+EXPERIENCE
+
+       07/2020 – 02/2022
+Junior .Net Developer, MUKURU, Parkview South Africa
+Responsibilities:
+* Develop solutions on daily basis
+* Investigating problems in software as a result of testing.
+* Working with QA analysts and software developers to find solutions.
+* Being part of the team that developed a watchlist program.
+* Been making huge impact on card manager project by enhancing login system feature to make it more robust.
+* Been part of the team that developed and enhanced forex system called point of sales and web reports by automating suspicious transactions for compliance.
+* I have grown to be more independent in terms of development with little help team lead and no supervision at all.
+
+
+
+                                                         02/2020 – 04/2020
+Junior .Net Developer, DVT, Rosebank South Africa
+                                                               10/2019 – 02/2020 
+Python Automation Tester, DotModus, Rosebank South Africa
+Responsibilities:
+* Designing and test automation scripts. 
+* Using test automation frameworks like Behave.
+* Investigating problems in software as a result of testing.
+* Working with QA analysts and software developers to find solutions.
+* Maintain and fix bugs on previous tests written.
+* Test both the backend and the frontend application.
+* Followed Agile Methodology with scrum meetings.
+
+02/2019 – 02/2020 
+.Net Developer Intern, DVT, Rosebank South Africa
+Responsibilities:
+* Involved in complete Life Cycle including Analysis, Design, and Development. 
+* Worked closely with clients to establish problem specifications and system designs.
+* Applied OOPs concepts, C#, ADO.NET, Web APIs namespaces in designing and development of the application.
+* Created Windows Communication Foundation Service Interfaces for connecting web services.
+* Assist other developers in coding and debugging issues.
+* Building web applications with ASP.NET/ASP.NET CORE
+MVC/Web.
+* Forms/JavaScript, JQuery, HTML5, CSS/CSS3, TypeScript,
+Angular 7/8
+* Followed Agile Methodology with scrum meetings.
+
+07/2018 – 12/2018
+.Net Developer Learnership, Dynamic DNA, Randburg South Africa
+Responsibilities:
+* Learning Software Development fundamentals.
+* Developing Windows Azure and Web Services.
+* Developing ASP.NET MVC 5 Web Applications.
+* Programming in C#
+EDUCATION       
+                    
+ 2020 – Not Completed
+Advanced Diploma in Information Resource Management, University of South Africa
+      
+                    
+ 2012 - 2015
+National Diploma in Information Technology, Central University of Technology, Free Sate
+
+ADDITIONAL
+SKILLS .Net Technologies: C#, .Net, .Net Core, ADO.NET, Python, ASP.NET/ASP.NET Core, Web APIs, MVC 5, WCF, LINQ, EF, EF Core, Rest APIs, Strapi CMS.
+Database operation: Microsoft Access, Microsoft SQL Server, PostgreSQL
+Development Tools: Visual Studio 2010 – 2022, Visual Studio Code, Postman, PyCharm, SoapUI.
+Web Technologies: HTML5, JavaScript, CSS, SCSS, AJAX, jQuery, Bootstrap, Angular, Typescript, Angular 7/18, NodeJs, React
+Programming: C#, SQL, Java, Python
+Servers: IIS, Microsoft SQL Server, Postgres.
+Operating Systems: Windows, Linux
+Web Services: Microsoft Azure, Microsoft DevOps, JIRA.
+CERTIFICATIONSMicrosoft Technology Associate (MTA) 
+Microsoft Certified Professional (MCP)
+Microsoft Certified Solutions Associate (MCSA)
+Microsoft Certified Solutions Developer (MCSD)
+ICAgile Certified Professional (ICP)
+Microsoft Certified Azure Fundamentals
+
+
+
+
+
+
+REFERENCES References available on request

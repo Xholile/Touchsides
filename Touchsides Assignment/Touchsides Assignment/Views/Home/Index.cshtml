@@ -1,0 +1,28 @@
+﻿<h1>Touchsides Technical Assignment</h1>
+<br />
+<div class="col-4">
+    <form method="post" enctype="multipart/form-data" asp-controller="Home" asp-action="Index">
+        <div class="mb-3">
+            <input type="file" name="file" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <input type="submit" value="Upload File" class="btn btn-primary" />
+        </div>
+    </form>
+
+    @if (!string.IsNullOrEmpty(ViewBag.Message) && !ViewBag.HasAdditionalInfo)
+    {
+        <div class="mt-3">
+            <span class="text-success">
+                @ViewBag.Message
+            </span>
+        </div>
+    }
+
+    @if (ViewBag.HasAdditionalInfo)
+    {
+        <p style="margin-bottom: 5px; width: 800px;">Most frequent word: @ViewBag.MostFrequentWord occurred @ViewBag.MostFrequentWordCount times</p>
+        <p style="margin-bottom: 5px; width: 800px;">Most frequent 7-character word: @ViewBag.MostFrequent7CharWord occurred @ViewBag.MostFrequent7CharWordCount times</p>
+        <p style="margin-bottom: 5px; width: 800px;">Highest scoring word(s) (according to the score table): @ViewBag.HighestScoringWord with a score of @ViewBag.HighestScoringWordScore</p>
+    }
+</div>
